@@ -1,3 +1,7 @@
+layout: page
+title: "Unbiased Mobility Project by 2021 Traffic Team"
+permalink: /unbiased_mobility/
+
 [TOC]
 
 # 1. Introduction
