@@ -342,7 +342,7 @@ It is important to note that although the test conducted showed correlation, the
 
 
 
-# 6. Unbiased Mobility Web App
+# 5. Unbiased Mobility Web App
 
 ![](https://i.imgur.com/Lpoc8Wr.png)
 Note: The app deployment is current offline. A demo could be found as part of [DSSG 2021 presentation](https://dsi.ubc.ca/data-science-social-good).
@@ -389,7 +389,7 @@ The option panel is on the left hand side and it is titled "Select a Neighbourho
 
 
 
-# 7. Conclusion
+# 6. Conclusion
 One important takeaway from this project is the importance of not only quantity but also variety of data. For example, camera metadata such as facing direction, height, and angles are needed to evaluate and improve vehicle detection, to construct flow models, as well as to rectify errors in analysis respectively. 
 
 This project highlights the significance of having the accessibility to different kind of data (i.e numerical and imagery). We have demonstrated how one can benefit from it. We were able to create a 'story' for future users to draw inferences. This allows stakeholders from a non-technical background to utilize the information and apply it in their own area of expertise. In short, combining various data sources is crucial as it can assist in interpreting the statistical findings and applying it to real world scenarios.
@@ -398,12 +398,12 @@ Finally, the app created is dedicated to addressing the culmination of findings 
 
 
 
-# 8. Implications for Social Good
+# 7. Implications for Social Good
 Overall, the findings from this project can be applied to many nonprofit and industrial areas. For example, non profit organizations can use the findings from camera comparisons and the post-detection correction model to provide aid in underrperesented areas where there may be little to no traffic activity. Futhermore, governments can use this information to construct essential services and provide population and economic growth. This may be helpful to areas that contain new immigrants where they need assistance to adjust to Canadian society. Lastly, small businesses can leverage these findings to assist in identifying areas of potential investment. In closing, the applications are versatile enough to cover a domain of topics that can be catered towards one's needs.
 
 
 
-# 9. Acknowledgement
+# 8. Acknowledgement
 
 Special thanks to these individuals who were able to assist in this project. Their expertise and insights were highly valued during the course of the entire project.
 
