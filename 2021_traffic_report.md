@@ -1,5 +1,5 @@
 layout: page
-title: "Unbiased Mobility Project by 2021 Traffic Team"
+title: "Unbiased Mobility Project"
 permalink: /unbiased_mobility/
 
 [TOC]
